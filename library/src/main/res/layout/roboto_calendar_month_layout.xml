@@ -15,6 +15,7 @@
         android:layout_centerVertical="true"
         android:layout_marginLeft="@dimen/roboto_calendar_padding"
         android:layout_marginRight="@dimen/roboto_calendar_padding"
+        android:background="@drawable/ic_arrow_right"
         app:srcCompat="@drawable/ic_arrow_right" />
 
     <TextView
@@ -37,6 +38,7 @@
         android:layout_centerVertical="true"
         android:layout_marginLeft="@dimen/roboto_calendar_padding"
         android:layout_marginRight="@dimen/roboto_calendar_padding"
+        android:background="@drawable/ic_arrow_left"
         app:srcCompat="@drawable/ic_arrow_left" />
 
 </RelativeLayout>
